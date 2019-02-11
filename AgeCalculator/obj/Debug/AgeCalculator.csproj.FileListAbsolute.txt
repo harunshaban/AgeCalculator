@@ -1,0 +1,9 @@
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe.config
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.pdb
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csprojAssemblyReference.cache
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Properties.Resources.resources
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.GenerateResource.cache
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.exe
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.pdb
