@@ -7,3 +7,4 @@ C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.
 C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.CoreCompileInputs.cache
 C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.exe
 C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.pdb
+C:\Users\hrn_b\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Form1.resources
